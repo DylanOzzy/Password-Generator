@@ -31,7 +31,7 @@ I made this webpage to demonstrate my current level of knowledge with Javascript
 
  [Password Generator](https://dylanozzy.github.io/Password-Generator/)
 
- ![Password Generator](assets/images/passgen1.png)
+ ![Password Generator](https://github.com/DylanOzzy/Password-Generator/blob/main/assets/Images/passgen1.png)
 
 
 
